@@ -1,0 +1,8 @@
+{
+    "python.defaultInterpreterPath": "/Users/ron/dev/torch/medium/venv/bin/python",
+
+    "files.trimTrailingWhitespace": true,
+    "[markdown]": {
+        "files.trimTrailingWhitespace": false
+      }
+}
